@@ -7,7 +7,7 @@ import Testimonials from "@/modules/@common/testimonials";
 import LeadFormSection from "@/modules/@common/lead_form_section";
 import TempleteTwoHero from "../../@components/templete_two_hero";
 import { useRouter } from "next/router";
-import InfoUK from "../../@components/info_uk";
+import InfoUK from "../../@components/info_melbourne";
 import InfoAustralia from "../../@components/info_australia";
 import InfoCanada from "../../@components/info_canada";
 import InfoUSA from "../../@components/info_usa";

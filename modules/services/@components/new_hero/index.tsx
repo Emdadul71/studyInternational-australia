@@ -33,6 +33,73 @@ const ServiceNewHero = ({ classes, data }: propTypes) => {
               <li>{data?.slug}</li>
             </ul>
           </div>
+          {data?.slug == "study-in-melbourne" && (
+            <div className="max-w-[850px] w-full mx-auto">
+              <p className="text-center mt-3 mb-0">
+                Experience academic excellence, cultural vibrancy, and abundant
+                opportunities in Australia's cosmopolitan city. Unleash your
+                potential and thrive in Melbourne's diverse and innovative
+                educational landscape.
+              </p>
+            </div>
+          )}
+          {data?.slug == "study-in-sydney" && (
+            <div className="max-w-[850px] w-full mx-auto">
+              <p className="text-center mt-3 mb-0">
+                Thrive in a multicultural city with prestigious universities,
+                diverse courses, and abundant opportunities. Embrace a
+                transformative educational experience in vibrant Sydney.
+              </p>
+            </div>
+          )}
+          {data?.slug == "study-in-brisbane" && (
+            <div className="max-w-[850px] w-full mx-auto">
+              <p className="text-center mt-3 mb-0">
+                Embrace a vibrant academic atmosphere, multiculturalism, and a
+                relaxed lifestyle in Queensland's capital. Discover endless
+                opportunities for growth and a warm community for international
+                students.
+              </p>
+            </div>
+          )}
+          {data?.slug == "study-in-adelaide" && (
+            <div className="max-w-[850px] w-full mx-auto">
+              <p className="text-center mt-3 mb-0">
+                Experience academic excellence, affordability, and a vibrant
+                cultural scene in South Australia's capital. Embrace a welcoming
+                community and endless opportunities for growth.
+              </p>
+            </div>
+          )}
+          {data?.slug == "study-in-perth" && (
+            <div className="max-w-[850px] w-full mx-auto">
+              <p className="text-center mt-3 mb-0">
+                Discover academic excellence, natural beauty, and a vibrant
+                lifestyle in Western Australia's capital. Embrace diverse
+                opportunities and a welcoming community for international
+                students
+              </p>
+            </div>
+          )}
+          {data?.slug == "study-in-canberra" && (
+            <div className="max-w-[850px] w-full mx-auto">
+              <p className="text-center mt-3 mb-0">
+                Explore academic excellence, government hub, and cultural
+                attractions in Australia's capital city. Experience a unique
+                educational environment with diverse opportunities for growth.
+              </p>
+            </div>
+          )}
+          {data?.slug == "study-in-gold-coast" && (
+            <div className="max-w-[850px] w-full mx-auto">
+              <p className="text-center mt-3 mb-0">
+                Embrace a vibrant coastal city with renowned institutions, a
+                stunning environment, and diverse industry opportunities.
+                Experience a balanced lifestyle while pursuing your educational
+                goals.
+              </p>
+            </div>
+          )}
         </div>
       </section>
       <section>

@@ -47,17 +47,12 @@ const topUniversityDataTable = {
   ],
 };
 
-export const InfoUK = () => {
+export const InfoMelbourne = () => {
   return (
     <div>
       <div className="border-l border-l-[4px] border-secondary pl-[14px]">
         <p className="text-xl font-medium">Study in Melbourne</p>
       </div>
-      <p>
-        Experience academic excellence, cultural vibrancy, and abundant
-        opportunities in Australia's cosmopolitan city. Unleash your potential
-        and thrive in Melbourne's diverse and innovative educational landscape.
-      </p>
       <p>
         Are you considering studying in Melbourne? Melbourne is a vibrant and
         cosmopolitan city known for its excellent education system and diverse
@@ -132,4 +127,4 @@ export const InfoUK = () => {
   );
 };
 
-export default InfoUK;
+export default InfoMelbourne;

@@ -3,7 +3,7 @@ import LeadFormSection from "@/modules/@common/lead_form_section";
 import ServiceNewHero from "@/modules/services/@components/new_hero";
 import InfoAustralia from "../../@components/info_australia";
 import { useRouter } from "next/router";
-import InfoUK from "../../@components/info_uk";
+import InfoUK from "../../@components/info_melbourne";
 import InfoCanada from "../../@components/info_canada";
 import InfoUSA from "../../@components/info_usa";
 import GetReady from "@/modules/@common/get_ready";
@@ -92,7 +92,7 @@ export const CountryDetailTemplateOne = ({ data }: propTypes) => {
         </div>
       </section>
 
-      <FeqSection title="Frequently Asked Questions (FAQs)" data={data} />
+      {/* <FeqSection title="Frequently Asked Questions (FAQs)" data={data} /> */}
       <LeadFormSection />
     </>
   );
