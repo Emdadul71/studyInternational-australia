@@ -75,6 +75,41 @@ const OurStory = () => {
             />
           </div>
         </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[1fr_750px] gap-[20px] mt-20">
+          <h3 className="mt-8 heading-two">
+            <span className="block">Our </span>
+            <span className="block">Mission</span>
+            <span className="block">Vision &</span>
+            <span className="block">Values</span>
+          </h3>
+          <div className="mb-5">
+            <p>
+              We believe that all students should have access to the best
+              possible education, to courses that align with their futures, and
+              spark the desire for inquiry.
+            </p>
+            <div>
+              <h4>Our aim is to be:</h4>
+              <ul className="list-disc pl-6">
+                <li>Known for professional attitude towards doing business.</li>
+                <li>Known for high quality outcomes.</li>
+                <li>
+                  Known for being one of the top companies within the industry.
+                </li>
+              </ul>
+            </div>
+
+            <p className="mt-4">
+              Study International’s Mission Statement declares our purpose as a
+              service providing and recruitment agency. Study International’s
+              mission is to serve our clients to build and develop approach
+              towards suitable and sustainable pathway in regards to their
+              migration or education concerns; and to provide assistance in such
+              regards.
+            </p>
+          </div>
+        </div>
       </div>
     </section>
   );

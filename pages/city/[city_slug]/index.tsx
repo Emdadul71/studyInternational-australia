@@ -10,7 +10,7 @@ const render = (props: any) => {
   return <CountryDetailTemplateOne data={props} />;
 };
 
-const CountryDetailPage = (props: any) => {
+const CityDetailPage = (props: any) => {
   return (
     <Layout
       title={props?.title}
@@ -25,11 +25,11 @@ const CountryDetailPage = (props: any) => {
   );
 };
 
-export default CountryDetailPage;
+export default CityDetailPage;
 
 export async function getStaticProps(context: any) {
   const { params } = context;
-  const slug = params.country_slug;
+  const slug = params.city_slug;
 
   const filePath = path.join(
     process.cwd(),
@@ -67,7 +67,7 @@ export async function getStaticPaths() {
   const paths = objectData.data.map((item: { slug: string }) => {
     return {
       params: {
-        country_slug: `${item.slug}`,
+        city_slug: `${item.slug}`,
       },
     };
   });

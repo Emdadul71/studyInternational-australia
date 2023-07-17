@@ -9,49 +9,50 @@ const dataLocal = [
   {
     title: "Melbourne",
     imgSrc: "/images/country/melbourne.png",
-    url: "/country/study-in-australia",
+    url: "/city/study-in-melbourne",
     hoverBackground:
       "linear-gradient(180deg, rgba(65, 22, 213, 0) 38.5%, #4116D5 100%)",
   },
   {
     title: "Sydney",
     imgSrc: "/images/country/sydney.png",
-    url: "/country/study-in-canada",
+    url: "/city/study-in-sydney",
     hoverBackground:
       "linear-gradient(180deg, rgba(49, 218, 212, 0) 38.5%, #31DAD4 100%)",
   },
   {
     title: "Brisbane",
     imgSrc: "/images/country/brisbane.png",
-    url: "/country/study-in-germany",
+    url: "/city/study-in-brisbane",
     hoverBackground:
       "linear-gradient(180deg, rgba(65, 22, 213, 0) 38.5%, #4116D5 100%)",
   },
   {
     title: "Adelaide",
+    url: "/city/study-in-adelaide",
     imgSrc: "/images/country/adelaide.png",
-    url: "/country/study-in-ireland",
+
     hoverBackground:
       "linear-gradient(180deg, rgba(20, 245, 106, 0) 38.5%, #14F56A 100%)",
   },
   {
     title: "Perth",
     imgSrc: "/images/country/perth.png",
-    url: "/country/study-in-japan",
+    url: "/city/study-in-perth",
     hoverBackground:
       "linear-gradient(180deg, rgba(252, 106, 49, 0) 38.5%, #FC6A31 100%)",
   },
   {
     title: "Canberra",
     imgSrc: "/images/country/canberra.png",
-    url: "country/study-in-the-usa",
+    url: "/city/study-in-canberra",
     hoverBackground:
       "linear-gradient(180deg, rgba(20, 245, 106, 0) 38.5%, #14F56A 100%)",
   },
   {
     title: "Gold Coast",
     imgSrc: "/images/country/gold-coast.png",
-    url: "/country/study-in-the-uk",
+    url: "/city/study-in-gold-coast",
     hoverBackground:
       "linear-gradient(180deg, rgba(49, 218, 212, 0) 38.5%, #31DAD4 100%)",
   },

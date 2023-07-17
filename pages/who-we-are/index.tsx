@@ -10,7 +10,7 @@ const AboutUsPage = () => {
       metaDescription="A trusted and progressive partner in the global journey of every aspiring international student
       Speak to an Expert"
       metaKeywords="study international,Abroad,global"
-      metaUrl={`${baseUrl}who-we-are`}
+      metaUrl={`${baseUrl}/who-we-are`}
       metaImage={`${baseUrl}images/about/about-image.jpg`}
     >
       <AboutUs />

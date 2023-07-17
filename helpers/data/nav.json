@@ -203,6 +203,17 @@
   },
   {
     "title": "About Us",
-    "link": "/about-us"
+    "link": "/who-we-are",
+    "children": [
+      {
+        "title": "Who We Are",
+        "link": "/who-we-are"
+      },
+
+      {
+        "title": "Awards Recognitions",
+        "link": "/awards"
+      }
+    ]
   }
 ]

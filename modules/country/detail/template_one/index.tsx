@@ -91,8 +91,7 @@ export const CountryDetailTemplateOne = ({ data }: propTypes) => {
           </div>
         </div>
       </section>
-      <GetReady data={data} />
-      <ArticleSection />
+
       <FeqSection title="Frequently Asked Questions (FAQs)" data={data} />
       <LeadFormSection />
     </>

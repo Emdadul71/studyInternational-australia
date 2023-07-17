@@ -26,12 +26,6 @@ const ServiceNewHero = ({ classes, data }: propTypes) => {
               <li>
                 <Link href="/">Home</Link>
               </li>
-              <li>
-                <div className="w-[8px] h-[2px] bg-grey mt-[2px]"></div>
-              </li>
-              <li>
-                <Link href="/country">Country</Link>
-              </li>
 
               <li>
                 <div className="w-[8px] h-[2px] bg-grey mt-[2px]"></div>
