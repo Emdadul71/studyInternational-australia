@@ -1,0 +1,135 @@
+[
+  {
+    "universityName": "Fanshawe College",
+    "universitySlug": "fanshawe-college",
+    "countrySlug": "canada",
+    "universityLogoSrc": "/images/country/australia/western-sydney-uni-img.png"
+  },
+  {
+    "universityName": "University of Ottawa",
+    "universitySlug": "university-of-ottawa",
+    "countrySlug": "canada",
+    "universityLogoSrc": "/images/country/canada/lakehead-university.png"
+  },
+  {
+    "universityName": "Queen Mary University of London",
+    "universitySlug": "queen-mary-university-of-london",
+    "countrySlug": "united-kingdom",
+    "universityLogoSrc": "/images/country/canada/university-of-manitoba.png"
+  },
+  {
+    "universityName": "Brock University",
+    "universitySlug": "brock-university",
+    "countrySlug": "canada",
+    "universityLogoSrc": "/images/country/canada/mount-saint-university.png"
+  },
+  {
+    "universityName": "Trinity Western University",
+    "universitySlug": "trinity-western-university",
+    "countrySlug": "canada",
+    "universityLogoSrc": "/images/country/usa/city-university.png"
+  },
+  {
+    "universityName": "Lambton College",
+    "universitySlug": "lambton-college",
+    "countrySlug": "canada",
+    "universityLogoSrc": "/images/country/usa/omes-university.png"
+  },
+
+  {
+    "universityName": "Université de Sherbrooke",
+    "universitySlug": "universite-de-sherbrooke",
+    "countrySlug": "canada",
+    "universityLogoSrc": "/images/country/canada/trent-university.png"
+  },
+  {
+    "universityName": "Australian Institute of Science & Technology",
+    "universitySlug": "australian-institute-of-science-and-technology",
+    "countrySlug": "australia",
+    "universityLogoSrc": "/images/country/other/victoria-university-wellington.png"
+  },
+  {
+    "universityName": "University of Central Lancashire",
+    "universitySlug": "uiversity-of-central-lancashiren",
+    "countrySlug": "united-kingdom",
+    "universityLogoSrc": "/images/country/uk/university-of-law.png"
+  },
+  {
+    "universityName": "Harvard University",
+    "universitySlug": "harvard-university",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/usa/csu.png"
+  },
+  {
+    "universityName": "Oklahoma City University",
+    "universitySlug": "oklahoma-city-university",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/uk/de-montfort-uni.png"
+  },
+  {
+    "universityName": "Old Dominion University ",
+    "universitySlug": "old-dominion-university",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/malaysia/kdu-university-college.png"
+  },
+  {
+    "universityName": "Illinois State University",
+    "universitySlug": "illinois-state-university",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/uk/liverpool-hope-uni.png"
+  },
+  {
+    "universityName": "The University of Sydney",
+    "universitySlug": "the-university-of-sydney",
+    "countrySlug": "australia",
+    "universityLogoSrc": "/images/country/other/linkoping-university.png"
+  },
+  {
+    "universityName": " Ole Miss - The University of Mississippi ",
+    "universitySlug": "ole-miss-the-university-of-mississippi",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/malaysia/ucsi-university.png"
+  },
+  {
+    "universityName": "Olivet College ",
+    "universitySlug": "olivet-college",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/canada/queens-university.png"
+  },
+  {
+    "universityName": "Oral Roberts University ",
+    "universitySlug": "oral-roberts-university",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/other/university-of-lemerick.png"
+  },
+  {
+    "universityName": "Oregon Tech University ",
+    "universitySlug": "oregon-tech-university",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/usa/ashland-university.png"
+  },
+  {
+    "universityName": "Otis College of Art and Design ",
+    "universitySlug": "otis-college-of-art-and-design",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/other/dbs.png"
+  },
+  {
+    "universityName": "Macquarie University",
+    "universitySlug": "macquarie-university",
+    "countrySlug": "australia",
+    "universityLogoSrc": "/images/country/australia/universityo-of-wollongong-img.png"
+  },
+  {
+    "universityName": "Kwantlen Polytechnic University",
+    "universitySlug": "kwantlen-polytechnic-university",
+    "countrySlug": "canada",
+    "universityLogoSrc": "/images/country/other/the-university-of-auckland.png"
+  },
+  {
+    "universityName": "Otterbein University ",
+    "universitySlug": "otterbein-university",
+    "countrySlug": "united-states",
+    "universityLogoSrc": "/images/country/usa/csu.png"
+  }
+]

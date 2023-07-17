@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "slug": "dr-farzana-rahim",
+      "name": "Dr. Farzana Rahim",
+      "designation": "Managing Director",
+      "contact": "0132 7419 916",
+      "email": "farzana@studyinternational.net.au"
+    },
+    {
+      "id": 2,
+      "slug": "md-rakib-chowdhury",
+      "name": "Md. Rakib Chowdhury",
+      "designation": "Country Head Bangladesh",
+      "contact": "0132 5062 180",
+      "email": "rakib@studyinternational.net.au"
+    },
+    {
+      "id": 3,
+      "slug": "sayma-bristy",
+      "name": "Sayma Bristy",
+      "designation": "Student Success Consultant",
+      "contact": "0132 9690 790",
+      "email": "sayma@studyinternational.net.au"
+    },
+    {
+      "id": 4,
+      "slug": "afiah-mubashshirah-ferdousi",
+      "name": "Afiah Mubashshirah Ferdousi",
+      "designation": "Student Success Consultant",
+      "contact": "0132 9690 798",
+      "email": "afiah@studyinternational.net.au"
+    },
+    {
+      "id": 5,
+      "slug": "abdullah-bakhlul",
+      "name": "Abdullah Bakhlul",
+      "designation": "Student Success Consultant",
+      "contact": "0132 5062 177",
+      "email": "abdullah@studyinternational.net.au"
+    },
+    {
+      "id": 6,
+      "slug": "mohammad-arifur-rahman",
+      "name": "Mohammad Arifur Rahman",
+      "designation": "Business Development Manager",
+      "contact": "0132 5062 176",
+      "email": "arif@studyinternational.net.au"
+    },
+    {
+      "id": 7,
+      "slug": "sher-adeeb-bin-faisal",
+      "name": "Sher Adeeb Bin Faisal",
+      "designation": "Business Development Manager",
+      "contact": "0132 5062 179",
+      "email": "adeeb@studyinternational.net.au"
+    },
+    {
+      "id": 8,
+      "slug": "ashraf-hoq",
+      "name": "Ashraf Hoq",
+      "designation": "Director",
+      "institute": "Study International",
+      "contact": "+61 0450637122",
+      "email": "ashraf@studyinternational.net.au",
+      "templete": "director"
+    }
+  ]
+}

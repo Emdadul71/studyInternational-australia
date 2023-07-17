@@ -1,0 +1,208 @@
+[
+  {
+    "title": "Discover Australia",
+    "link": "/#",
+    "children": [
+      {
+        "title": "Fact About Study in Australia",
+        "link": "/#"
+      },
+      {
+        "title": "Reason to Study with Australia",
+        "link": "/#"
+      },
+      {
+        "title": "World Class Education",
+        "link": "/#"
+      },
+
+      {
+        "title": "Student Stories ",
+        "link": "/#"
+      },
+
+      {
+        "title": "Student Life – blog",
+        "link": "/#"
+      }
+    ]
+  },
+  {
+    "title": "Study",
+    "link": "/study",
+    "isColTwo": true,
+    "children": [
+      {
+        "title": "Find Courses",
+        "link": "/#"
+      },
+      {
+        "title": "Education Path Ways",
+        "link": "/#"
+      },
+      {
+        "title": "Field of Studies",
+        "link": "/#"
+      },
+      {
+        "title": "Scholarships",
+        "link": "/#"
+      },
+      {
+        "title": "Vocational Education",
+        "link": "/#"
+      }
+    ]
+  },
+  {
+    "title": "Live",
+    "link": "/live",
+    "isColTwo": true,
+    "children": [
+      {
+        "title": "Location in Australia ",
+        "link": "/#"
+      },
+      {
+        "title": "Accommodations",
+        "link": "/#"
+      },
+      {
+        "title": "Living and Education Cost",
+        "link": "/#"
+      },
+      {
+        "title": "Health and Safety ",
+        "link": "/#"
+      },
+      {
+        "title": "Plan your Arrival",
+        "link": "/#"
+      },
+      {
+        "title": "Visa Compliance",
+        "link": "/#"
+      },
+      {
+        "title": "Work",
+        "link": "/#"
+      },
+      {
+        "title": "Student Support ",
+        "link": "/#"
+      }
+    ]
+  },
+  {
+    "title": "Services ",
+    "link": "/services",
+    "isColTwo": true,
+    "children": [
+      {
+        "title": "Admission Process",
+        "link": "/services/admissions-process"
+      },
+      {
+        "title": " Student Visa Application",
+        "link": "/services/student-visa-application"
+      },
+      {
+        "title": "Health Insurance Coverage",
+        "link": "/services/health-insurance-coverage"
+      },
+      {
+        "title": "Student Visa Extension",
+        "link": "/services/student-visa-extension"
+      },
+      {
+        "title": "Temporary Graduate Visa",
+        "link": "/services/temporary-graduate-visa"
+      },
+      {
+        "title": "Migration Opportunities",
+        "link": "/services/migration-opportunities"
+      },
+      {
+        "title": "NAATI Course",
+        "link": "/services/naati-course"
+      },
+      {
+        "title": "Australian Professional Year Program",
+        "link": "/services/australian-professional-year-program"
+      },
+      {
+        "title": "Scholarship Search ",
+        "link": "/services/scholarship-search"
+      },
+      {
+        "title": "Recognition of Prior Learning (RPL)",
+        "link": "/services/recognition-of-prior-learning"
+      }
+    ]
+  },
+  {
+    "title": "Study to Migration  ",
+    "link": "/services",
+    "children": [
+      {
+        "title": "Top courses",
+        "link": "/#"
+      },
+      {
+        "title": "Student Visa Extension ",
+        "link": "/#"
+      },
+      {
+        "title": "Temporary Graduate Visa",
+        "link": "/#"
+      }
+    ]
+  },
+  {
+    "title": "Migration",
+    "link": "/services",
+    "isColTwo": true,
+    "children": [
+      {
+        "title": "GMS Visa",
+        "link": "/#"
+      },
+      {
+        "title": "Employ Sponsored Visa",
+        "link": "/#"
+      },
+      {
+        "title": "Visitor Visa",
+        "link": "/#"
+      },
+      {
+        "title": "Global Talent Visa",
+        "link": "/#"
+      },
+      {
+        "title": "Partner Visa",
+        "link": "/#"
+      },
+      {
+        "title": "Parent Visa",
+        "link": "/#"
+      },
+      {
+        "title": "Family Visa",
+        "link": "/#"
+      },
+      {
+        "title": "Student visa",
+        "link": "/#"
+      },
+      {
+        "title": "Business Visa",
+        "link": "/#"
+      }
+    ]
+  },
+  {
+    "title": "About Us",
+    "link": "/about-us"
+  }
+]

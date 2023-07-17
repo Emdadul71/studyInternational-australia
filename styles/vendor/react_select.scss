@@ -1,0 +1,39 @@
+.lead_form_wrapper {
+  .react-select__control {
+    background-color: #002f5b;
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid #8e8e93;
+  }
+
+  .react-select__single-value {
+    color: #fff;
+  }
+  .css-t3ipsp-control {
+    border-color: white !important;
+    box-shadow: none !important;
+  }
+}
+.react-select__indicator-separator {
+  display: none;
+}
+
+.lead_white_form_wrapper {
+  .react-select_white__control {
+    background-color: white;
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid #8e8e93;
+  }
+
+  .react-select_white__single-value {
+    color: #111111;
+  }
+  .css-t3ipsp-control {
+    border-color: #111111 !important;
+    box-shadow: none !important;
+  }
+}
+.react-select_white__indicator-separator {
+  display: none;
+}

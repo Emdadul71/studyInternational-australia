@@ -1,0 +1,72 @@
+[
+  {
+    "sl": "01",
+    "title": "Admissions Process",
+    "description": "Our highly qualified and certified Immigration and Education Consultants specialise in matching your profile to higher education pathways in Australia with step-by-step application support.",
+    "imageSrc": "/images/services/admission-process.webp",
+    "slug": "admissions-process"
+  },
+  {
+    "sl": "02",
+    "title": "Student Visa Application",
+    "description": "Our immigration experts ensure your visa applications are timely, complete, and error-free, with document checking and mock visa interview assistance to boost successful applications",
+    "imageSrc": "/images/services/student-visa-application.webp",
+    "slug": "student-visa-application"
+  },
+  {
+    "sl": "03",
+    "title": "Health Insurance Coverage",
+    "description": "Explore a selection of Overseas Student Health Cover options across providers to find the right option for you.",
+    "imageSrc": "/images/services/health-insurance-coverage.webp",
+    "slug": "health-insurance-coverage"
+  },
+  {
+    "sl": "04",
+    "title": "Student Visa Extension",
+    "description": "Planning on continuing your studies in Australia? Get in touch with our migration specialists to find out how you can apply for a new Subclass 500 visa before your current visa expires.",
+    "imageSrc": "/images/services/student-visa-extension.webp",
+    "slug": "student-visa-extension"
+  },
+  {
+    "sl": "05",
+    "title": "Temporary Graduate Visa",
+    "description": "Learn everything you need to know about your post-study visa options with the Subclass 485 and start applying with our migration consultants.",
+    "imageSrc": "/images/services/temporary-graduate-visa.webp",
+    "slug": "temporary-graduate-visa"
+  },
+  {
+    "sl": "06",
+    "title": "Migration Opportunities",
+    "description": "Looking into migration pathways to live and work in Australia? Our consultants break down the right pathway for you and walk you step by step to making your Australian dream a reality.",
+    "imageSrc": "/images/services/migration-opportunities.webp",
+    "slug": "migration-opportunities"
+  },
+  {
+    "sl": "07",
+    "title": "NAATI Course",
+    "description": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+    "imageSrc": "/images/services/naati-course.webp",
+    "slug": "naati-course"
+  },
+  {
+    "sl": "08",
+    "title": "Australian Professional Year Program",
+    "description": "Add points to your permanent residency application by pursuing a Professional Year Program in Australia under Study International’s guidance.",
+    "imageSrc": "/images/services/australian-professional-year-program.webp",
+    "slug": "australian-professional-year-program"
+  },
+  {
+    "sl": "09",
+    "title": "Scholarship Search",
+    "description": "With thorough guidance in seeking funding and finance opportunities, including scholarships fitting your budget needs, we make study abroad opportunities more accessible.",
+    "imageSrc": "/images/services/scholarship-search.webp",
+    "slug": "scholarship-search"
+  },
+  {
+    "sl": "10",
+    "title": "Recognition of Prior Learning (RPL)",
+    "description": "We help you explore and access diverse professional pathways through RPL by getting official recognition of your formal and informal education and training.",
+    "imageSrc": "/images/services/recognition-of-prior-learning.webp",
+    "slug": "recognition-of-prior-learning"
+  }
+]

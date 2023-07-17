@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Admissions Process",
+      "metaTitle": "Admissions Process",
+      "metaDescription": "Our highly qualified and certified Immigration and Education Consultants specialise in matching your profile to higher education pathways in Australia with step-by-step application support.",
+      "metaImage": "/images/services/details/admissions-process.jpg",
+      "metaKeywords": "Admissions, counselling",
+      "slug": "admissions-process",
+      "sectionHero": {
+        "title": "Admissions Process",
+        "shortDescription": "Our highly qualified and certified Immigration and Education Consultants specialise in matching your profile to higher education pathways in Australia with step-by-step application support.",
+        "featuredImage": "/images/services/details/admissions-process.jpg",
+        "alt": "Admissions Process"
+      },
+      "description": "<h4>Discover the Right Study Opportunity for You in Australia</h4><p class='mt-4 mb-7'>We believe that every student has the right to access a world-class education, particularly in a leading country like Australia. However, discovering the best fit can be an overwhelming task, considering all the information out there. Our expert education consultants simplify this task to a far more stress-free and intuitive process. We work one-to-one with students to thoroughly understand their academic profiles and preferences, personalising program and university recommendations that best suit your needs. With this shortlist, students can confidently begin applications knowing they have found their perfect university fit.</p>",
+
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "02",
+            "title": "Student Visa Application",
+            "description": "Our immigration experts ensure your visa applications are timely, complete, and error-free, with document checking and mock visa interview assistance to boost successful applications",
+            "imageSrc": "/images/services/details/student-visa-application.jpg",
+            "slug": "student-visa-application"
+          },
+          {
+            "sl": "03",
+            "title": "Health Insurance Coverage",
+            "description": "Explore a selection of Overseas Student Health Cover options across providers to find the right option for you.",
+            "imageSrc": "/images/services/details/health-insurance-coverage.jpg",
+            "slug": "health-insurance-coverage"
+          },
+          {
+            "sl": "04",
+            "title": "Student Visa Extension",
+            "description": "Planning on continuing your studies in Australia? Get in touch with our migration specialists to find out how you can apply for a new Subclass 500 visa before your current visa expires.",
+            "imageSrc": "/images/services/details/student-visa-extension.jpg",
+            "slug": "student-visa-extension"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Student Visa Application",
+      "metaTitle": "Student Visa Application",
+      "metaDescription": "Our immigration experts ensure your visa applications are timely, complete, and error-free, with document checking and mock visa interview assistance to boost successful applications.",
+      "metaImage": "images/services/details/student-visa-application.jpg",
+      "metaKeywords": "student, loan",
+      "slug": "student-visa-application",
+      "sectionHero": {
+        "title": "Student Visa Application",
+        "shortDescription": "Our immigration experts ensure your visa applications are timely, complete, and error-free, with document checking and mock visa interview assistance to boost successful applications.",
+        "featuredImage": "/images/services/details/student-visa-application.jpg",
+        "alt": "Student Visa Application "
+      },
+      "description": "<h4>Boost Your Chances of Successful Student Visa Applications</h4><p class='mt-4 mb-7'>Our certified immigration consultants understand the ins and outs of student immigration for Australia, boasting a high visa success rate for our students. Once you receive your offer letter, these experts guide you through every step of the immigration process, from getting together the necessary documents to filing a complete and error-free application with the best chances of approval.</p>",
+
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "05",
+            "title": "Temporary Graduate Visa",
+            "description": "Learn everything you need to know about your post-study visa options with the Subclass 485 and start applying with our migration consultants.",
+            "imageSrc": "/images/services/details/temporary-graduate-visa.jpg",
+            "slug": "temporary-graduate-visa"
+          },
+          {
+            "sl": "06",
+            "title": "Migration Opportunities",
+            "description": "Looking into migration pathways to live and work in Australia? Our consultants break down the right pathway for you and walk you step by step to making your Australian dream a reality.",
+            "imageSrc": "/images/services/details/migration-opportunities.jpg",
+            "slug": "migration-opportunities"
+          },
+          {
+            "sl": "07",
+            "title": "NAATI Course",
+            "description": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+            "imageSrc": "/images/services/details/naati-course.jpg",
+            "slug": "naati-course"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Health Insurance Coverage",
+      "metaTitle": "Health Insurance Coverage",
+      "metaDescription": "Explore a selection of Overseas Student Health Cover options across providers to find the right option for you.",
+      "metaImage": "images/services/details/health-insurance-coverage.jpg",
+      "metaKeywords": "follow-up, parents",
+      "slug": "health-insurance-coverage",
+
+      "sectionHero": {
+        "title": "Health Insurance Coverage",
+        "shortDescription": "Explore a selection of Overseas Student Health Cover options across providers to find the right option for you.",
+        "featuredImage": "/images/services/details/health-insurance-coverage.jpg",
+        "alt": "Health Insurance Coverage"
+      },
+      "description": "<h4>Ensure Your Comfort and Safety in Australia with the Right Health Insurance</h4><p class='mt-4 mb-7'>International students in Australia need to hold appropriate health insurance for the duration of their time in the country. Study International helps you remove the confusion from the process with a selection of Overseas Student Health Cover options from trusted providers. The OSHC covers doctor visits, ambulance covers, and certain types of medication and hospital treatment. Health insurance is a safety net for students far from home, so you have ample support should you run into any health issue or emergency while in Australia.</p>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "08",
+            "title": "Australian Professional Year Program",
+            "description": "Add points to your permanent residency application by pursuing a Professional Year Program in Australia under Study International’s guidance.",
+            "imageSrc": "/images/services/details/australian-professional-year-program.jpg",
+            "slug": "australian-professional-year-program"
+          },
+          {
+            "sl": "09",
+            "title": "Scholarship Search",
+            "description": "With thorough guidance in seeking funding and finance opportunities, including scholarships fitting your budget needs, we make study abroad opportunities more accessible.",
+            "imageSrc": "/images/services/details/scholarship-search.jpg",
+            "slug": "scholarship-search"
+          },
+          {
+            "sl": "10",
+            "title": "Recognition of Prior Learning (RPL)",
+            "description": "We help you explore and access diverse professional pathways through RPL by getting official recognition of your formal and informal education and training.",
+            "imageSrc": "/images/services/details/recognition-of-prior-learning.jpg",
+            "slug": "recognition-of-prior-learning"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Student Visa Extension",
+      "metaTitle": "Student Visa Extension",
+      "metaDescription": "Planning on continuing your studies in Australia? Get in touch with our migration specialists to find out how you can apply for a new Subclass 500 visa before your current visa expires.",
+      "metaImage": "/images/services/details/student-visa-extension.jpg",
+      "metaKeywords": "accommodation, booking",
+      "slug": "student-visa-extension",
+
+      "sectionHero": {
+        "title": "Student Visa Extension",
+        "shortDescription": "Find your home away from home through Study International’s international accommodation provider partners.",
+        "featuredImage": "/images/services/details/student-visa-extension.jpg",
+        "alt": "Student Visa Extension"
+      },
+      "description": "<h4>Understand How to Continue Studying in Australia if Your Visa is Expiring</h4><p class='mt-4 mb-7'>Did you know that you can’t extend your Subclass 500 visa? But this does not mean that you can’t continue living and studying in Australia if your first visa is expiring. You will need to apply for a new Subclass 500 visa if you plan to take your studies further. It may be overwhelming and confusing to figure out how to navigate expiring visas and new applications - which is where Study International’s immigration experts come in.</p>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "07",
+            "title": "NAATI Course",
+            "description": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+            "imageSrc": "/images/services/details/naati-course.jpg",
+            "slug": "naati-course"
+          },
+          {
+            "sl": "08",
+            "title": "Australian Professional Year Program",
+            "description": "Add points to your permanent residency application by pursuing a Professional Year Program in Australia under Study International’s guidance.",
+            "imageSrc": "/images/services/details/australian-professional-year-program.jpg",
+            "slug": "australian-professional-year-program"
+          },
+          {
+            "sl": "09",
+            "title": "Scholarship Search",
+            "description": "With thorough guidance in seeking funding and finance opportunities, including scholarships fitting your budget needs, we make study abroad opportunities more accessible.",
+            "imageSrc": "/images/services/details/scholarship-search.jpg",
+            "slug": "scholarship-search"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Temporary Graduate Visa",
+      "metaTitle": "Temporary Graduate Visa",
+      "metaDescription": "Learn everything you need to know about your post-study visa options with the Subclass 485 and start applying with our migration consultants.",
+      "metaImage": "/images/services/details/temporary-graduate-visa.jpg",
+      "metaKeywords": "application, process",
+      "slug": "temporary-graduate-visa",
+
+      "sectionHero": {
+        "title": "Temporary Graduate Visa",
+        "shortDescription": "Access step-by-step support in building complete application packages with the strongest shot of admissions success with our specialists.",
+        "featuredImage": "/images/services/details/temporary-graduate-visa.jpg",
+        "alt": "Temporary Graduate Visa"
+      },
+      "description": "<h4>Explore Post-Study Opportunities in Australia’s Top Industries</h4><p class='mt-4 mb-7'>Australia is a hub of economy, finance, and business, and work experience here can open up career opportunities you may not get elsewhere. The Subclass 485 pathway - the Temporary Graduate Visa - is your option to unlock such an opportunity. As a graduate of a CRICOS-registered Australian university, you can qualify for a post-study visa between 2 to 6 years. Connect with our Education and Immigration Consultants to chart your future path in Australia as a professional.</p>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "06",
+            "title": "Migration Opportunities",
+            "description": "Looking into migration pathways to live and work in Australia? Our consultants break down the right pathway for you and walk you step by step to making your Australian dream a reality.",
+            "imageSrc": "/images/services/details/migration-opportunities.jpg",
+            "slug": "migration-opportunities"
+          },
+          {
+            "sl": "07",
+            "title": "NAATI Course",
+            "description": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+            "imageSrc": "/images/services/details/naati-course.jpg",
+            "slug": "naati-course"
+          },
+          {
+            "sl": "08",
+            "title": "Australian Professional Year Program",
+            "description": "Add points to your permanent residency application by pursuing a Professional Year Program in Australia under Study International’s guidance.",
+            "imageSrc": "/images/services/details/australian-professional-year-program.jpg",
+            "slug": "australian-professional-year-program"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Migration Opportunities",
+      "metaTitle": "Migration Opportunities",
+      "metaDescription": "Looking into migration pathways to live and work in Australia? Our consultants break down the right pathway for you and walk you step by step to making your Australian dream a reality.",
+      "metaImage": "/images/services/details/migration-opportunities.jpg",
+      "metaKeywords": "visa,application, assistance",
+      "slug": "migration-opportunities",
+
+      "sectionHero": {
+        "title": "Migration Opportunities",
+        "shortDescription": "Our immigration experts ensure your visa applications are timely, complete, and error-free, with document checking and mock visa interview assistance to boost successful applications.",
+        "featuredImage": "/images/services/details/migration-opportunities.jpg",
+        "alt": "Migration Opportunities"
+      },
+      "description": "<h4>Unlock an Exception Quality of Life in Australia by Exploring Migration Opportunities</h4><p class='mt-4 mb-7'>Are you looking for family and partner visas, working and skilled visas, or other opportunities to live in Australia? Our skilled immigration specialists, with almost two decades of professional experience in supporting successful visa applications across various categories, are here to streamline and simplify your plans for achievable outcomes.</p>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "01",
+            "title": "Admissions Process",
+            "description": "Our highly qualified and certified Immigration and Education Consultants specialise in matching your profile to higher education pathways in Australia with step-by-step application support.",
+            "imageSrc": "/images/services/details/admissions-process.jpg",
+            "slug": "admissions-process"
+          },
+          {
+            "sl": "02",
+            "title": "Student Visa Application",
+            "description": "Our immigration experts ensure your visa applications are timely, complete, and error-free, with document checking and mock visa interview assistance to boost successful applications",
+            "imageSrc": "/images/services/details/student-visa-application.jpg",
+            "slug": "student-visa-application"
+          },
+          {
+            "sl": "03",
+            "title": "Health Insurance Coverage",
+            "description": "Explore a selection of Overseas Student Health Cover options across providers to find the right option for you.",
+            "imageSrc": "/images/services/details/health-insurance-coverage.jpg",
+            "slug": "health-insurance-coverage"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "NAATI Course",
+      "metaTitle": "NAATI Course",
+      "metaDescription": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+      "metaImage": "/images/services/details/naati-course.jpg",
+      "metaKeywords": "pre-departure,application, briefing",
+      "slug": "naati-course",
+
+      "sectionHero": {
+        "title": "NAATI Course",
+        "shortDescription": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+        "featuredImage": "/images/services/details/naati-course.jpg",
+        "alt": "NAATI Course"
+      },
+      "description": "<h4>Earn Points to Apply for Skilled Migration Visas in Australia</h4><p class='mt-4 mb-7'>Find out everything you need to know about NAATI courses, how to apply, and the benefits of doing so. Pursuing this opportunity lets you earn points towards your Permanent Residency application, as well as get accredited for interpretation and translation between two languages, English and a second language. With the NAATI accreditation, you can unlock many career opportunities in sectors like</p><ul><li>Government agencies</li><li>Airports and terminals</li><li>Themed parks</li><li>Universities and schools</li><li>Law firms</li><li>Corporations</li><li>Hospitals</li></ul>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "03",
+            "title": "Health Insurance Coverage",
+            "description": "Explore a selection of Overseas Student Health Cover options across providers to find the right option for you.",
+            "imageSrc": "/images/services/details/health-insurance-coverage.jpg",
+            "slug": "health-insurance-coverage"
+          },
+          {
+            "sl": "04",
+            "title": "Student Visa Extension",
+            "description": "Planning on continuing your studies in Australia? Get in touch with our migration specialists to find out how you can apply for a new Subclass 500 visa before your current visa expires.",
+            "imageSrc": "/images/services/details/student-visa-extension.jpg",
+            "slug": "student-visa-extension"
+          },
+          {
+            "sl": "05",
+            "title": "Temporary Graduate Visa",
+            "description": "Learn everything you need to know about your post-study visa options with the Subclass 485 and start applying with our migration consultants.",
+            "imageSrc": "/images/services/details/temporary-graduate-visa.jpg",
+            "slug": "temporary-graduate-visa"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": "Australian Professional Year Program",
+      "metaTitle": "Australian Professional Year Program",
+      "metaDescription": "Add points to your permanent residency application by pursuing a Professional Year Program in Australia under Study International’s guidance.",
+      "metaImage": "images/services/details/australian-professional-year-program.jpg",
+      "metaKeywords": "internship,student, Programs",
+      "slug": "australian-professional-year-program",
+
+      "sectionHero": {
+        "title": "Australian Professional Year Program",
+        "shortDescription": "Add points to your permanent residency application by pursuing a Professional Year Program in Australia under Study International’s guidance.",
+        "featuredImage": "/images/services/details/australian-professional-year-program.jpg",
+        "alt": "Australian Professional Year Program"
+      },
+      "description": "<div>\n  <h4>Crack the Workforce and Work Towards Permanent Residency with the PYP</h4>\n  <p>\n    Graduating soon from an Australian university and wondering how to make your\n    way towards Permanent Residency? Explore the Professional Year Program\n    options with Study International! This program is open for Australian\n    university graduates to get professional and practical training, giving you\n    the hands-on experience and competencies to crack the Australian workforce.\n    The PYP certificate is highly sought after in Australia, and also earns you\n    5 additional points towards your permanent residency application!\n  </p>\n  <h4>What is the Professional Year Program?</h4>\n  <p>\n    Professional year program Australia is a professional development program\n    for students who have graduated from any of the Australian universities. The\n    professional year program or PYP program is structured to introduce former\n    students to occupational and practical training in addition to providing\n    them with the opportunity to apply for permanent residency in Australia.\n    Professional Year Program Australia is conducted by accredited agencies\n    authorized by the Department of Immigration and Border Protection (DIBP).\n  </p>\n  <h4>Benefits of the Professional Year Program</h4>\n  <ul class=\"mb-5\">\n    <li>\n      Earns you 5 additional points towards your permanent residency application\n    </li>\n    <li>\n      Provides individuals with the opportunity to garner industry-related\n      skills both via work and their studies and help assimilate into the\n      Australian culture\n    </li>\n    <li>\n      Earns you a professional year program certificate, which is highly sought\n      after in Australia\n    </li>\n    <li>\n      Makes you skilful in business and communication etiquettes within the\n      country which will help you expand your professional network and develop\n      in-demand soft skills\n    </li>\n  </ul>\n  <h4>Professional Year Program Requirements</h4>\n  <div>Applicants must:</div>\n  <ul class=\"mb-5\">\n    <li>\n      Be international students within the ages of 18-45 who have completed\n      undergraduate or postgraduate course spanning a minimum of two years in\n      the related field of accounting, computer science or engineering.\n    </li>\n    <li>\n      Be in queue for the grant of the Subclass 485 visa or be Subclass 485 visa\n      holders with at least 12-month visa validity\n    </li>\n    <li>Have completed skill assessment from an accredited body</li>\n    <li>Have an English language proficiency certificate</li>\n  </ul>\n  <h4>Professional Year Program Fees</h4>\n  <p>Accounting: $6,000 to $13,000</p>\n  <p>IT: From $12930</p>\n  <p>Engineering: $13,000</p>\n  <h4>PYP Course Duration</h4>\n  <p>As the name indicates, the Professional Year Program is 12 months long.</p>\n  <h4>Documents Needed</h4>\n  <p>\n    You require the following documents to apply for the Professional Year\n    Program Australia\n  </p>\n  <ul>\n    <li>Updated resume and cover letter</li>\n    <li>Attested academic transcripts</li>\n    <li>English language test certificate</li>\n    <li>Copy of passport and temporary graduate visa</li>\n  </ul>\n</div>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "05",
+            "title": "Temporary Graduate Visa",
+            "description": "Learn everything you need to know about your post-study visa options with the Subclass 485 and start applying with our migration consultants.",
+            "imageSrc": "/images/services/details/temporary-graduate-visa.jpg",
+            "slug": "temporary-graduate-visa"
+          },
+          {
+            "sl": "06",
+            "title": "Migration Opportunities",
+            "description": "Looking into migration pathways to live and work in Australia? Our consultants break down the right pathway for you and walk you step by step to making your Australian dream a reality.",
+            "imageSrc": "/images/services/details/migration-opportunities.jpg",
+            "slug": "migration-opportunities"
+          },
+          {
+            "sl": "07",
+            "title": "NAATI Course",
+            "description": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+            "imageSrc": "/images/services/details/naati-course.jpg",
+            "slug": "naati-course"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": "Scholarship Search",
+      "metaTitle": "Scholarship Search",
+      "metaDescription": "With thorough guidance in seeking funding and finance opportunities, including scholarships fitting your budget needs, we make study abroad opportunities more accessible.",
+      "metaImage": "images/services/details/scholarship-search.jpg",
+      "metaKeywords": "internship,student, Programs",
+      "slug": "scholarship-search",
+
+      "sectionHero": {
+        "title": "Scholarship Search",
+        "shortDescription": "With thorough guidance in seeking funding and finance opportunities, including scholarships fitting your budget needs, we make study abroad opportunities more accessible.",
+        "featuredImage": "/images/services/details/scholarship-search.jpg",
+        "alt": "Scholarship Search"
+      },
+      "description": "<h4>Secure the Finances to Make Your Australian Degree Dream a Reality</h4><p class='mt-4 mb-7'>We understand that budget constraints and concerns are often one of the biggest hiccups students face when considering higher education opportunities. Study International leverages our broad network of university and industry partners in Australia to help our students discover and secure scholarship opportunities and funding to make their dreams a reality. Our goal is to make sure you experience the full return on investment of a global education - we do our utmost to make sure studying in Australia stays an opportunity rather than a burden on you and your family.</p>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "03",
+            "title": "Health Insurance Coverage",
+            "description": "Explore a selection of Overseas Student Health Cover options across providers to find the right option for you.",
+            "imageSrc": "/images/services/details/health-insurance-coverage.jpg",
+            "slug": "health-insurance-coverage"
+          },
+          {
+            "sl": "04",
+            "title": "Student Visa Extension",
+            "description": "Planning on continuing your studies in Australia? Get in touch with our migration specialists to find out how you can apply for a new Subclass 500 visa before your current visa expires.",
+            "imageSrc": "/images/services/details/student-visa-extension.jpg",
+            "slug": "student-visa-extension"
+          },
+          {
+            "sl": "05",
+            "title": "Temporary Graduate Visa",
+            "description": "Learn everything you need to know about your post-study visa options with the Subclass 485 and start applying with our migration consultants.",
+            "imageSrc": "/images/services/details/temporary-graduate-visa.jpg",
+            "slug": "temporary-graduate-visa"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": "Recognition of Prior Learning (RPL)",
+      "metaTitle": "Recognition of Prior Learning (RPL)",
+      "metaDescription": "We help you explore and access diverse professional pathways through RPL by getting official recognition of your formal and informal education and training.",
+      "metaImage": "images/services/details/recognition-of-prior-learning.jpg",
+      "metaKeywords": "internship,student, Programs",
+      "slug": "recognition-of-prior-learning",
+
+      "sectionHero": {
+        "title": "Recognition of Prior Learning (RPL)",
+        "shortDescription": "We help you explore and access diverse professional pathways through RPL by getting official recognition of your formal and informal education and training.",
+        "featuredImage": "/images/services/details/recognition-of-prior-learning.jpg",
+        "alt": "Recognition of Prior Learning (RPL)"
+      },
+      "description": "<div>\n  <h4>\n    Qualify for Your Dream Programs with Recognition of Prior Learning (RPL)\n  </h4>\n  <p>\n    Recognition of Prior Learning (or RPL for short) is the process of receiving\n    a qualification or part thereof by recognising skills and knowledge learned\n    through life experience, work or other uncompleted or not-nationally\n    recognized training.\n  </p>\n  <p>These existing skills may have been obtained:</p>\n  <ul class=\"mb-5\">\n    <li>from work experience</li>\n    <li>from voluntary work</li>\n    <li>while at school</li>\n    <li>from life experience</li>\n  </ul>\n  <p>\n    Study International’s FREE skills assessment and recognition can fast track\n    your qualification or even award your qualification outright. This means you\n    don’t have to repeat training you’ve already received. An additional bonus\n    is that the entire RPL process is online!\n  </p>\n  <h4>What is RPL?</h4>\n  <p>\n    Recognition of Prior Learning (RPL) recognises learning experiences gained\n    through life and work. The RPL process consists of merging your current\n    experience to a nationally recognised qualification or statement of\n    attainment.\n  </p>\n  <p>\n    Certify You will recognise your experience and overseas qualifications by\n    filling in the gaps to fast track your skills into becoming a nationally\n    recognised qualification. You don’t have to repeat the training you have\n    already received. With just 4 easy steps we will save you time and money so\n    you can receive formal acknowledgement of your skills.\n  </p>\n  <p>\n    We are partnered with a selection of Registered Training Organisations (RTO)\n    and offer you a variety of Nationally Recognised Qualifications that will\n    help get you that promotion, get that Trade License, or get going in a new\n    Industry – whatever your motive in seeking RPL, let us help you get\n    certified!\n  </p>\n  <h4>How It Works</h4>\n  <h5>Step 1: Contact us for a skills assessment</h5>\n  <p>\n    We will discuss your goals and your experience to help you gain the right\n    qualifications that will correspond to your skills.\n  </p>\n\n  <h5>Step 2: Verification of your experience</h5>\n  <p>\n    To verify your experience, we’ll be needing copies of your Curriculum Vitae\n    (CV), letter of employment, current contracts, reference letters, and any\n    certificates and transcripts that demonstrate your competencies.\n  </p>\n\n  <h5>Step 3: Skills assessment</h5>\n  <p>\n    Complete an online skills assessment to acknowledge your work capabilities\n    and use these to impact either partially or completely towards your\n    nationally recognised qualifications. This way you can better understand\n    where your skills can take you.\n  </p>\n\n  <h5>Step 4: You are now certified!</h5>\n  <p>\n    All our certifications are nationally recognised and are issued by Certify\n    You, partnered with a selection of Registered Training Organisations (RTO)!\n  </p>\n\n  <h4>RPL Qualifications</h4>\n\n  <h4>Automotive</h4>\n  <ul class=\"mb-5\">\n    <li>Certificate II in Automotive Air Conditioning Technology</li>\n    <li>Certificate II in Automotive Electrical Technology</li>\n    <li>Certificate II in Automotive Servicing Technology</li>\n    <li>Certificate II in Automotive Tyre Servicing Technology</li>\n    <li>Certificate III in Automotive Electrical Technology</li>\n    <li>Certificate III in Light Vehicle Mechanical Technology</li>\n    <li>Certificate III in Motorcycle Mechanical Technology</li>\n    <li>Certificate III in Automotive Sales</li>\n    <li>Certificate III in Heavy Commercial Vehicle Mechanical Technology</li>\n    <li>Certificate III in Automotive Underbody Technology</li>\n    <li>AUR40212 Certificate IV in Automotive Mechanical Diagnosis</li>\n  </ul>\n\n  <h4>Beauty</h4>\n  <ul class=\"mb-5\">\n    <li>Certificate II in Nail Technology</li>\n    <li>Certificate IV in Beauty Therapy</li>\n    <li>Diploma of Beauty Therapy</li>\n  </ul>\n\n  <h4>Business</h4>\n  <ul>\n    <li>Certificate III in Business</li>\n    <li>Certificate III in Customer Contact</li>\n    <li>Certificate III in Business Administration</li>\n    <li>Certificate IV in Business</li>\n    <li>Certificate IV in Customer Contact</li>\n    <li>Certificate IV in Business Administration</li>\n    <li>Certificate IV in Business Administration</li>\n    <li>Certificate IV in Business Sales</li>\n    <li>Certificate IV in Frontline Management</li>\n    <li>Certificate IV in Work Health and Safety</li>\n    <li>Diploma of Business</li>\n    <li>Diploma of Customer Contact</li>\n    <li>Diploma of Business Administration</li>\n    <li>Diploma of Human Resources Management</li>\n    <li>Diploma of Management</li>\n    <li>Diploma of Project Management</li>\n    <li>Diploma of Quality Auditing</li>\n    <li>Advanced Diploma of Management</li>\n    <li>Advanced Diploma of Marketing</li>\n  </ul>\n</div>",
+      "sectionOtherService": {
+        "services": [
+          {
+            "sl": "07",
+            "title": "NAATI Course",
+            "description": "Earn points towards your Permanent Residency application with the NAATI course, getting accreditation for interpreting and translating between English and another language.",
+            "imageSrc": "/images/services/details/naati-course.jpg",
+            "slug": "naati-course"
+          },
+          {
+            "sl": "08",
+            "title": "Australian Professional Year Program",
+            "description": "Add points to your permanent residency application by pursuing a Professional Year Program in Australia under Study International’s guidance.",
+            "imageSrc": "/images/services/details/australian-professional-year-program.jpg",
+            "slug": "australian-professional-year-program"
+          },
+          {
+            "sl": "09",
+            "title": "Scholarship Search",
+            "description": "With thorough guidance in seeking funding and finance opportunities, including scholarships fitting your budget needs, we make study abroad opportunities more accessible.",
+            "imageSrc": "/images/services/details/scholarship-search.jpg",
+            "slug": "scholarship-search"
+          }
+        ]
+      }
+    }
+  ]
+}
