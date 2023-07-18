@@ -93,3 +93,9 @@ blockquote {
   background: linear-gradient(94.33deg, #002f5b 2.66%, #010085 95.21%),
     linear-gradient(90deg, #f58120 0%, #fad902 100%), #d9d9d9;
 }
+
+.info_fact-about ::marker {
+  font-size: 24px;
+  font-weight: bold;
+  color: #002f5b;
+}

@@ -81,12 +81,9 @@ export const CountryDetailTemplateOne = ({ data }: propTypes) => {
       <ServiceNewHero data={data} />
       <section className="pb-8">
         <div className="container">
-          <div className="grid grid-cols-1 lg:grid-cols-[810px_330px] gap-8">
+          <div className="max-w-[930px] w-full mx-auto">
             <div className="from_texteditor_wrapper">
               {data?.description && <div>{htmlParse(data?.description)}</div>}
-            </div>
-            <div>
-              <LeadFormSection isSmall />
             </div>
           </div>
         </div>
