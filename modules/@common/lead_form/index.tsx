@@ -146,7 +146,7 @@ const LeadForm = ({ isSmall }: propTypes) => {
                   Mobile Number <span className="text-danger">*</span>
                 </label>
                 <PhoneInput
-                  country={"bd"}
+                  country={"au"}
                   countryCodeEditable={true}
                   className={`block w-full focus:border-white  px-4 placeholder:text-[#8e8e93]  border-[#8e8e93]  bg-transparent border-b `}
                   value={values?.mobile ?? ""}
